@@ -1,0 +1,39 @@
+body {
+	background: url(rabstol_net_rammstein_06.jpg) center no-repeat fixed;
+	width: 99%;
+}
+.thumb img  {
+    border: 2px solid #55c5e9; /* Рамка вокруг фотографии */
+    background: #666; /* Цвет фона */
+    margin-right: 10px; /* Отступ справа */
+    margin-bottom: 10px; /* Отступ снизу */
+   }
+   .btn {
+   width: 100px;
+	margin-top:555px;
+    font-size: 18px;
+    padding: 10px;
+    border: 3px solid white;
+    background: #000;
+    color: FFFFFF;
+    cursor: pointer;
+	position: relative;
+    left: 0%;
+	top: -7%;
+    transform: translate(-50%, 0);
+}
+
+  .btn1 {
+   width: 100px;
+	margin-top:555px;
+    font-size: 18px;
+    padding: 10px;
+    border: 3px solid white;
+    background: #000;
+    color: FFFFFF;
+    cursor: pointer;
+	position: relative;
+    left: 338px;
+	top: -5%;
+    transform: translate(-50%, 0);
+}

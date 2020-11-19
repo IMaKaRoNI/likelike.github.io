@@ -1,0 +1,46 @@
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="flex.css" rel="stylesheet" type="text/css">
+  <title>Главная страница</title>
+</head>
+<body>
+
+<video id="myVideo">
+  <source src="Ramm.mp4" type="video/mp4">
+</video>
+
+<div class="content">
+<div class="ramka">
+  <h1>Rammstein</h1>
+</div>
+</div>
+
+<button id="myBtn" onclick="myFunction()">Pause</button>
+
+<a href="Flex.html" class="btn1">Cостав группы</a>
+<a href="Таблиці.html" class="btn2">Дискография</a>
+<a href="Таблиці1.html" class="btn3">Группа</a>
+<a href="Форми.html" class="btn4">Билеты</a>
+<a href="Галерея.html" class="btn5">Галерея</a>
+ </body>
+</html>
+
+
+<script>
+var video = document.getElementById("myVideo");
+var btn = document.getElementById("myBtn");
+
+function myFunction() {
+  if (video.paused) {
+    video.play();
+    btn.innerHTML = "Pause";
+  } else {
+    video.pause();
+    btn.innerHTML = "Play";
+  }
+}
+</script>
+
+</body>
+</html>

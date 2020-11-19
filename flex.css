@@ -1,0 +1,124 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial;
+    font-size: 17px;
+}
+
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: -7;
+    min-width: 100%; 
+    min-height: 100%;
+}
+
+.content {
+    position: fixed;
+    bottom: 516;
+    color: #FFFFFF;
+    width: 100%;
+	margin-bottom:0px;
+	text-align:center;
+	font-size:20px;
+}
+
+.ramka {
+border:7px solid white
+}
+
+#myBtn {
+    width: 100px;
+	margin-top:555px;
+    font-size: 18px;
+    padding: 10px;
+    border: 3px solid white;
+    background: #000;
+    color: FFFFFF;
+    cursor: pointer;
+	position: relative;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+.btn1 {
+  width: 100px;
+	margin-top:300px;
+    font-size: 18px;
+    padding: 10px;
+    border: 3px solid white;
+    background: #000;
+    color: FFFFFF;
+    cursor: pointer;
+	position: relative;
+    left:-5%;
+	top: -84%;
+    transform: translate(-50%, 0);  
+}
+
+.btn2 {
+  width: 100px;
+	margin-top:300px;
+    font-size: 18px;
+    padding: 10px;
+    border: 3px solid white;
+    background: #000;
+    color: FFFFFF;
+    cursor: pointer;
+	position: relative;
+    left:-2%;
+	top: -84%;
+    transform: translate(-50%, 0);  
+}
+
+.btn3 {
+  width: 100px;
+	margin-top:300px;
+    font-size: 18px;
+    padding: 10px;
+    border: 3px solid white;
+    background: #000;
+    color: FFFFFF;
+    cursor: pointer;
+	position: relative;
+    left:2%;
+	top: -84%;
+    transform: translate(-50%, 0);  
+}
+
+.btn4 {
+  width: 100px;
+	margin-top:300px;
+    font-size: 18px;
+    padding: 10px;
+    border: 3px solid white;
+    background: #000;
+    color: FFFFFF;
+    cursor: pointer;
+	position: relative;
+    left:29%;
+	top: -84%;
+    transform: translate(-50%, 0);  
+}
+
+.btn5 {
+  width: 100px;
+	margin-top:300px;
+    font-size: 18px;
+    padding: 10px;
+    border: 3px solid white;
+    background: #000;
+    color: FFFFFF;
+    cursor: pointer;
+	position: relative;
+    left:35%;
+	top: -84%;
+    transform: translate(-50%, 0);  
+}
+
+#myBtn:hover {
+    background: #ddd;
+    color: black;
+}

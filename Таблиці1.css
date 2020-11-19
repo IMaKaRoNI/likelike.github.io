@@ -1,0 +1,58 @@
+body {
+	background: url(rabstol_net_rammstein_06.jpg) center no-repeat fixed;
+	width: 99%;
+}
+
+.btn {
+   width: 100px;
+	margin-top:555px;
+    font-size: 18px;
+    padding: 10px;
+    border: 3px solid white;
+    background: #000;
+    color: FFFFFF;
+    cursor: pointer;
+	position: relative;
+    left: 0%;
+	top: -7%;
+    transform: translate(-50%, 0);
+}
+
+  .btn1 {
+   width: 100px;
+	margin-top:555px;
+    font-size: 18px;
+    padding: 10px;
+    border: 3px solid white;
+    background: #000;
+    color: FFFFFF;
+    cursor: pointer;
+	position: relative;
+    left: 338px;
+	top: -5%;
+    transform: translate(-50%, 0);
+}
+.btn2 {
+   width: 100px;
+	margin-top:555px;
+    font-size: 18px;
+    padding: 10px;
+    border: 3px solid white;
+    background: #000;
+    color: FFFFFF;
+    cursor: pointer;
+	position: relative;
+    left: 686px;
+	top: -5%;
+    transform: translate(-50%, 0);
+}
+
+.block1 {
+    background: rgba(167, 171, 176, 0.9); /* Цвет фона */
+    color: #000000; /* Цвет текста */
+    padding: 20px 0px 50px 20px; /* Поля вокруг текста */
+   }
+   
+   blockquote{
+	  font-style: italic;
+	  }

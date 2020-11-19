@@ -1,0 +1,85 @@
+body {
+	background: url(rabstol_net_rammstein_06.jpg) center no-repeat fixed;
+	width: 99%;
+}
+ p {
+    text-indent: 20px; /* Отступ первой строки в пикселах */
+   }
+  blockquote{
+	  font-style: italic;
+	  }
+.block1 {
+    background: rgba(167, 171, 176, 0.9); /* Цвет фона */
+    color: #000000; /* Цвет текста */
+    padding: 20px 0px 50px 20px; /* Поля вокруг текста */
+   }
+   
+   .block2 {
+    background: rgba(167, 171, 176, 0.9); /* Цвет фона */
+    color: #000000; /* Цвет текста */
+    padding: 0px 0px 0px 400px; /* Поля вокруг текста */
+   }
+   
+   .btn {
+   width: 100px;
+	margin-top:555px;
+    font-size: 18px;
+    padding: 10px;
+    border: 3px solid white;
+    background: #000;
+    color: FFFFFF;
+    cursor: pointer;
+	position: relative;
+    left: 0%;
+	top: -7%;
+    transform: translate(-50%, 0);
+}
+
+  .btn1 {
+   width: 100px;
+	margin-top:555px;
+    font-size: 18px;
+    padding: 10px;
+    border: 3px solid white;
+    background: #000;
+    color: FFFFFF;
+    cursor: pointer;
+	position: relative;
+    left: 57%;
+	top: -5%;
+    transform: translate(-50%, 0);
+}
+
+.sign {
+    float: right; /* Выравнивание по правому краю */
+    border: 1px solid #333; /* Параметры рамки */
+    padding: 7px; /* Поля внутри блока */
+    margin: 5px 0 5px 10px; /* Отступы вокруг */
+    background: #f0f0f0; /* Цвет фона */ 
+   }
+   .sign figcaption {
+    margin:0px 5px 5px 110px; /* Отступы вокруг абзаца */
+   }
+   
+   .sign1 {
+    float: left; /* Выравнивание по правому краю */
+    border: 1px solid #333; /* Параметры рамки */
+    padding: 7px; /* Поля внутри блока */
+    margin: 5px 0 5px 10px; /* Отступы вокруг */
+    background: #f0f0f0; /* Цвет фона */ 
+   }
+   .sign1 figcaption {
+    margin:0px 5px 5px 100px; /* Отступы вокруг абзаца */
+   }
+   
+   .sign2 {
+    float: right; /* Выравнивание по правому краю */
+    border: 1px solid #333; /* Параметры рамки */
+    padding: 7px; /* Поля внутри блока */
+    margin: 5px 0 5px 10px; /* Отступы вокруг */
+    background: #f0f0f0; /* Цвет фона */ 
+   }
+   .sign2 figcaption {
+    margin:0px 5px 5px 110px; /* Отступы вокруг абзаца */
+   }
+	
